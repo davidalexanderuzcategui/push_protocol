@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../decentralized-cupcakes"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs"
+		},
+		{
+			"path": "../../workshop-pushchain-main"
+		},
+		{
+			"path": "../.."
+		}
+	]
+}
